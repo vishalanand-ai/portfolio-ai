@@ -1,7 +1,6 @@
 {
   "name": "vishal-anand",
   "version": "0.1.0",
-  "homepage": "https://vishalanand-ai.github.io/portfolio-ai/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
